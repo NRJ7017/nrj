@@ -200,14 +200,18 @@ hr{
     margin-top: 50px;
 }
 .progress-bar1{
-	background-color:#FF5A0A;
+     background-image: none;
+	background-color:#3B5997;
 }
 .progress-bar2{
-	background-color:#0E0021;
+     background-image: none;
+	background-color:#EE8D0A;
 }
 .progress-bar3{
-	background-color:#433022;
+    background-image: none;
+	background-color:#B6A754
 }
 .progress-bar4{
-	background-color:#75A4D2;
+     background-image: none;
+	background-color:#805489;
 }
